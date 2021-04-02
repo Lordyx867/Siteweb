@@ -1,0 +1,41 @@
+#tableau1  {
+    border-collapse: collapse;
+    text-align: center;
+ 
+   
+}
+
+#tableau2  {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
+th, td {padding: 25px 50px;}
+
+th{
+    color: #FFFFFF;
+    background-color: #272626;
+    position: sticky;
+    top: 0;
+  }
+
+tbody tr, td, th {border: 1px solid #050404;text-align: center;}
+
+#scroll1{   
+    max-height: 51.8em;
+    overflow-y: scroll;
+    position: absolute;
+    top: 100px; 
+    left: 1000px;
+  
+}
+
+#scroll2{
+    max-height: 200em;
+    overflow-y: scroll;
+    position: absolute;
+    top: 150px;
+    right: 330px;
+  
+}

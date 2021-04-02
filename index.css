@@ -1,0 +1,19 @@
+body {background-color:#B6B0B0;}
+
+#image-position
+{
+    width: 550px;
+    position: absolute;
+    right:670px;
+    top: 200px;
+}
+
+#titre
+{
+    position: absolute;
+    right:765px;
+    top: 70px;   
+}
+
+
+

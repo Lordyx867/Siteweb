@@ -1,0 +1,17 @@
+
+body{
+margin:0px;
+}
+#header{
+height:60px;
+background:#272626;
+    
+}
+
+.boutonaccueil{position: fixed; top: 1.9%; left: 1%; color: #FFFFFF;text-decoration: none;font-size: 20px;font-weight: 900;}
+
+.boutonmap{position: fixed; top: 2%; left: 6%; color: #F2EFEF;text-decoration: none;text-decoration: none;font-size: 18px;font-weight: 900;}
+
+.boutontableau{position: fixed; top: 2%; left: 95%; color:#F2EFEF; text-decoration: none;font-size: 18px;font-weight: 900;}
+
+.boutondeconnexion{position: fixed; top: 2%; left: 88%; color:#F2EFEF; text-decoration: none;font-size: 18px;font-weight: 900;}
